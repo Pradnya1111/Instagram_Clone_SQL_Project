@@ -1,6 +1,14 @@
 # Unveiling Social Media Insights: Condensed Analysis
 Our project encapsulates the essence of data-driven decision-making within the realm of social media. Each query peels back layers of user behavior, enabling actionable insights that drive engagement, content strategy, and user satisfaction. Through meticulous analysis, we offer a nuanced perspective on user activity, empowering strategic choices and informed growth.<br>
 
+Data Set contains tables:<br>
+comments, follows, likes, photo_tags, photos, tags,users.
+
+Below is the EER(Enhanced Entity-Relationship) Diagram:<br>
+![image](https://github.com/Pradnya1111/Instagram_Clone_SQL_Project/assets/87003134/1043aeb5-1679-4ee0-83f7-f28054e1b51d)<br>
+
+
+
 Our data exploration reveals key insights into user behavior, shaping strategic decisions for effective engagement:<br>
 
 1. Longevity Recognition: Identified five oldest users, recognizing commitment and loyalty.
